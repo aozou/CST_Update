@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7A42C7591BCB4F0100EF0894"
-               BuildableName = "CST_LOGIN.app"
-               BlueprintName = "CST_LOGIN"
+               BuildableName = "CST_Update.app"
+               BlueprintName = "CST_Update"
                ReferencedContainer = "container:CST_LOGIN.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A42C7591BCB4F0100EF0894"
-            BuildableName = "CST_LOGIN.app"
-            BlueprintName = "CST_LOGIN"
+            BuildableName = "CST_Update.app"
+            BlueprintName = "CST_Update"
             ReferencedContainer = "container:CST_LOGIN.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A42C7591BCB4F0100EF0894"
-            BuildableName = "CST_LOGIN.app"
-            BlueprintName = "CST_LOGIN"
+            BuildableName = "CST_Update.app"
+            BlueprintName = "CST_Update"
             ReferencedContainer = "container:CST_LOGIN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A42C7591BCB4F0100EF0894"
-            BuildableName = "CST_LOGIN.app"
-            BlueprintName = "CST_LOGIN"
+            BuildableName = "CST_Update.app"
+            BlueprintName = "CST_Update"
             ReferencedContainer = "container:CST_LOGIN.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
